@@ -1,0 +1,47 @@
+{
+  "name": "cypress4",
+  "version": "1.0.0",
+  "description": "Assessment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "foo": "1.0.0 - 2.9999.9999",
+    "bar": ">=1.0.2 <2.1.2",
+    "baz": ">1.0.2 <=2.3.4",
+    "boo": "2.0.1",
+    "qux": "<1.0.0 || >=2.3.1 <2.4.5 || >=2.5.2 <3.0.0",
+    "asd": "http://asdf.com/asdf.tar.gz",
+    "til": "~1.2",
+    "elf": "~1.2.3",
+    "two": "2.x",
+    "thr": "3.3.x",
+    "lat": "latest",
+    "dyl": "file:../dyl",
+    "csvjson": "^4.3.4",
+    "fs": "^0.0.1-security",
+    "mongodb": "^2.2.31"
+  },
+  "devDependencies": {
+    "cypress": "^4.12.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giturl.git"
+  },
+  "author": "Stella",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/homepage/issues"
+  },
+  "homepage": "https://github.com/homepage#readme"
+ 
+}
+
+
+
+
+
+  
+
